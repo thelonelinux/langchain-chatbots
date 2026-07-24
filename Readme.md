@@ -1,6 +1,10 @@
 # LANGCHAIN CHATBOTS AND STUFFS PROJECTS
 * following youtube video : https://www.youtube.com/watch?v=D74el9mvNak&t=1261s
 * HERE WE WILL DO UV WAY RATHER THAN PIP
+* To learning about MCP server - same way video explained
+  * https://www.youtube.com/watch?v=tzrwxLNHtRY
+* To get langchain api key - same way video explained
+  * https://www.youtube.com/watch?v=A9Awgbgx7vY
 
 
 ## SETUP THE PROJECT
